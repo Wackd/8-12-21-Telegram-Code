@@ -1,3 +1,13 @@
+
+
+//This is the first post from that day that clearly contains Code, I believe it is C#???
+
+//This file was "cleaned" became wak.c
+
+
+//Begin original McAfee post after ............................
+........................................................../*
+
 [UP]
 [DOWN]
 [LEFT]
@@ -10,6 +20,8 @@ VVATCH_THE_VVATER:
 
 John McAfee.
 
+
+*/
 using System;
 using System.Text;
 using System.IO;
