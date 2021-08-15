@@ -1,3 +1,18 @@
+/*
+
+This was the second post containing clear code that day.
+
+It appears to define variables and declares class "AesCryptographyService"
+
+I'm not too familiar with C# but this sure seems like he is telling us to use this program to decode the encrypted text that he included with the recent "epsilon" and "omega" NFT's over at opensea.io
+
+
+
+begin Mcafee's raw post after.........
+..........................................................*/
+
+
+
 Console.WriteLine("Epsilon: " + epsilon_b64);
   Console.WriteLine("B64 Decoded: " + BitConverter.ToString(epsilon).Replace("-", ""));
   Console.WriteLine("To String: " + Encoding.UTF8.GetString(epsilon));
