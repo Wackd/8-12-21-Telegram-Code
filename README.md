@@ -12,15 +12,11 @@ Raw Code 2 was cleaned up a bit and became wak.h
 If you know code and want to help PLEASE fork this, share this, and lets get this done!
 
 
+IMPORTANT
 
-]FOLLQW[.THE.]YELLQW[
-[BRICK[>][ROAD]
-_INSPE[CT_IN]SPECT_
-[CQDE]RS[B]CQDIN
-{/\/\}[AGENTS].[ATT]RACT
-[N]IGHT{F}IGHT>{BETA}DATA[
-[T]IME[LESS]
+He TOLD US that the "The Magnet URL will be in the NFT"
 
-N.C.S.W.I.C.
+This code is clearly used to decode the text from the NEW NFT's which will give us the magnet URL to download the 32 TB
 
-John McAfee.
+Lets do this
+
